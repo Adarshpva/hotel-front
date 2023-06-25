@@ -1,0 +1,56 @@
+/* .navbar{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+}
+ */
+.navbar{
+    background-color: rgba(0, 0, 0,0.5);
+
+    
+}
+
+ .banner{
+    background-image: url(https://www.redpillrebellion.com/wp-content/uploads/2017/05/Travel-accommodation-options.jpg);
+background-size: cover; 
+ background-position: center ;
+height: 800px;
+/* background-attachment: fixed; */
+}
+
+
+ .card img{
+    transition: 3s;
+}
+
+.card:hover  img{
+    transform: scale(1.1);
+    transition: 2s;
+} 
+.box{
+background-size: cover; 
+background-position: center ;
+}
+.card{
+    background-color: black;
+}
+
+
+.service{
+    background-size: cover; 
+    background-position: center ;
+    }
+    .atag{
+        text-decoration: none;
+        color: white;
+    }
+    
+
+
+
+/* .new{ */
+    /* background-image: url(https://images.hellomagazine.com/horizon/original_aspect_ratio/46ea54ccd3cb-romantic-meal-z.jpg); */
+    /* background-size: cover; */
+    /* background-position: center  ; */
+    /* height: 400px; */
+/* } */
